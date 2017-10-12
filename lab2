@@ -13,7 +13,6 @@ int main() {
   cin >> k;
   int a[n][m];
   int b[m][k];
-  int c[n][m];
   for (int i = 0; i < n; i++) {
     for (int j = 0; j < m; j++) {
       cin >> a[i][j];
